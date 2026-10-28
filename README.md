@@ -35,3 +35,5 @@ Offline 3DS app to find, preview and copy the `BGM.ogg` audio from Anemone theme
 
 The complete source project, including Makefile, assets and third-party license notices, is available in [ShieldThemeMusicExtractor-Source-v1.0.0.zip](https://github.com/Shield-77/Shield-Theme-Music-Extractor/blob/main/ShieldThemeMusicExtractor-Source-v1.0.0.zip). Build with devkitPro and the dependencies listed in the archive's README. Application code and original artwork use the MIT License. Third-party library licenses are included separately in the source archive.
 
+
+Please respect copyright and audio licensing. I developed this tool simply to allow for listening—on the 3DS—to the music found in many themes; these tracks often have great tunes but are frequently impossible to track down, even using Shazam (I mean, how could Shazam possibly analyze songs sung by Inklings? 😭). Anyway, the goal is to provide the simplest way possible to listen to the background music from your favorite themes—and perhaps even enjoy them via Shield DJ? nah listen theme anywhere in OGG format !
