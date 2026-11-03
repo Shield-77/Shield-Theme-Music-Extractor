@@ -1,5 +1,5 @@
 # SHIELD Theme Music Extractor
-
+**Codex was used to develop this tool.**
 
 Offline 3DS app to find, preview and copy the `BGM.ogg` audio from Anemone themes. It scans `sdmc:/themes/`, including ZIP archives, without unpacking whole archives.
 
