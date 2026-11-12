@@ -37,3 +37,6 @@ The complete source project, including Makefile, assets and third-party license 
 
 
 Please respect copyright and audio licensing. I designed this tool simply to allow for listening—on the 3DS—to the music found in many themes; these tracks often have great tunes but are frequently impossible to track down, even using Shazam (I mean, how could Shazam possibly analyze songs sung by Inklings? 😭). Anyway, the goal is to provide the simplest way possible to listen to the background music from your favorite themes—and perhaps even enjoy them via Shield DJ? nah listen theme anywhere in OGG format !
+
+(Shield is not affiliated with ameone, this does not change your themes, you do not trust the project generated with codex? The source code is there precisely so you can examine it, or even create your own version. Bugs are still possible; Codex isn't perfect).
+
