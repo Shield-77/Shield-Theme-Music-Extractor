@@ -11,5 +11,6 @@ SHIELD Theme Music's application code and original artwork are MIT licensed. The
 | libzstd | 1.5.5 | `licenses/zstd/LICENSE` |
 | zlib | 1.3.1 | `licenses/zlib/LICENSE` |
 | liblzma | 5.8.2 | 0BSD; `licenses/liblzma/COPYING.0BSD` |
+| Source Sans 3 | 3.x | SIL Open Font License 1.1; `licenses/LICENSE-SourceSans3.md` |
 
 The 3DS toolchain and system libraries are provided by devkitPro and are not vendored in this repository.
